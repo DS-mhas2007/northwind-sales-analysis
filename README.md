@@ -69,4 +69,4 @@ A number of names, cities and product names contain literal `?` characters where
 
 ## About
 
-**Author:** [Your Name](https://www.linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
+**Author:** [Mahmoud Abu Saada](https://www.linkedin.com/in/ds-ai-mahmoud-abu-saada) · [GitHub](https://github.com/DS-mhas2007)
